@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Get to Know Your Local Government: Atlanta Edition
 
-You can use the [editor on GitHub](https://github.com/christine-george/edtech/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+How well do you _really_ know Atlanta's elected officials? Learn more about your city's and county's government and ways to get involved in your community with local civics events!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Elected Officials
 
-### Markdown
+### [Mayor's Office](https://www.atlantaga.gov/government/mayor-s-office)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Atlanta Mayor - Keisha Lance Bottoms
 
-```markdown
-Syntax highlighted code block
+* Chief of Staff - Carmen Chubb
 
-# Header 1
-## Header 2
-### Header 3
+* Chief Operating Officer - Joshua Williams
 
-- Bulleted
-- List
+### [Fulton County Board of Commissioners](https://www.fultoncountyga.gov/commissioners)
 
-1. Numbered
-2. List
+* Chairman of the Board - Robb Pitts
 
-**Bold** and _Italic_ and `Code` text
+* District 1 Commissioner - Liz Hausman
 
-[Link](url) and ![Image](src)
-```
+* District 2 Commissioner - Bob Ellis
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### [Fulton County Sheriff's Office](http://www.fultonsheriff.org/)
 
-### Jekyll Themes
+* Sheriff - Theodore Jackson
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/christine-george/edtech/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### [Fulton County Superior Court](https://www.fultoncourt.org/)
 
-### Support or Contact
+* Chief Judge - Christopher S. Brasher
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Judge - Ural Glanville
+
+* Clerk of Superior and Magistrate Courts - Cathelene "Tina" Robinson
+
+## Ways to Get Involved
+
+hello hello (: so i guess this is the part where we should incorporate the calendars and links to events that people can attend to get involved in their community? also since this is a learning tool, should we include some sort of lil quiz or something that people can take to test if they've learned enough about their officials after reading through all the stuff above ? ^^^
+
+
